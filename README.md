@@ -126,10 +126,7 @@ fprintf(stderr, "shmdt failed\n"); exit(EXIT_FAILURE);
 
 
 ## OUTPUT
-
-![Screenshot 2025-05-01 201206](https://github.com/user-attachments/assets/b05254a1-3fb8-44c8-a900-ec402421603a)
-
-![Screenshot 2025-05-01 201219](https://github.com/user-attachments/assets/13850ce6-c418-4454-8efb-74e6ca70ed2a)
+![Screenshot 2025-05-28 172936](https://github.com/user-attachments/assets/9d1a4ca9-2d6a-4e43-afd7-c61ee0f10a47)
 
 # RESULT:
 The program is executed successfully.
